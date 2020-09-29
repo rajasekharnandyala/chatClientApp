@@ -2,7 +2,7 @@
   "name": "rreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/rajasekharnandyala/chatClientApp",
+  "homepage": "https://rajasekharnandyala.github.io/chatClientApp",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
