@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rajasekharnandyala/chatClientApp/static/css/main.caeb0f16.chunk.css",
+    "main.js": "/rajasekharnandyala/chatClientApp/static/js/main.353c04c7.chunk.js",
+    "main.js.map": "/rajasekharnandyala/chatClientApp/static/js/main.353c04c7.chunk.js.map",
+    "runtime-main.js": "/rajasekharnandyala/chatClientApp/static/js/runtime-main.61de14c1.js",
+    "runtime-main.js.map": "/rajasekharnandyala/chatClientApp/static/js/runtime-main.61de14c1.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/rajasekharnandyala/chatClientApp/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.14b96d7a.chunk.js": "/rajasekharnandyala/chatClientApp/static/js/2.14b96d7a.chunk.js",
+    "static/js/2.14b96d7a.chunk.js.map": "/rajasekharnandyala/chatClientApp/static/js/2.14b96d7a.chunk.js.map",
+    "index.html": "/rajasekharnandyala/chatClientApp/index.html",
+    "precache-manifest.db886c30b4277c648885a8a3fd7341ff.js": "/rajasekharnandyala/chatClientApp/precache-manifest.db886c30b4277c648885a8a3fd7341ff.js",
+    "service-worker.js": "/rajasekharnandyala/chatClientApp/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/rajasekharnandyala/chatClientApp/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.caeb0f16.chunk.css.map": "/rajasekharnandyala/chatClientApp/static/css/main.caeb0f16.chunk.css.map",
+    "static/js/2.14b96d7a.chunk.js.LICENSE.txt": "/rajasekharnandyala/chatClientApp/static/js/2.14b96d7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61de14c1.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.14b96d7a.chunk.js",
+    "static/css/main.caeb0f16.chunk.css",
+    "static/js/main.353c04c7.chunk.js"
+  ]
+}
