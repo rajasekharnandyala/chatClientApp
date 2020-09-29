@@ -1,0 +1,19 @@
+.chat {
+    background-color: darkmagenta;
+    min-height:  500px;
+    width: 400px;
+    margin: 40px auto;
+}
+#to-do-form input {
+    background-color: blanchedalmond;
+    width: 250px;
+    margin: 20px;
+    height: 50px;
+    padding: 0 24px;
+}
+#to-do-form button {
+    background-color: red;
+    width: 80px;
+    border-radius: 5px;
+    height: 50px;
+}

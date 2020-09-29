@@ -1,0 +1,22 @@
+
+.box-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px auto;
+  background-color: peru;
+  width: 400px;
+  height: 150px;
+}
+.controller {
+  color: white;
+}
+.form {
+  margin-bottom: 6px;
+  height: 40px;
+  width: 250px;
+  border-bottom: black;
+}
+a {
+  color: white;
+}
